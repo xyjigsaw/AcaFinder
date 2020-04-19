@@ -1,0 +1,48 @@
+__label__edu Skip to main content
+__label__edu 首页     师资队伍     导师 介绍     博导 硕导
+__label__publication 发表 日期 供稿 管理员
+__label__edu 姓名 郑春厚 性别 男 出生年月 导师 类别 博导 硕导 技术职称 教授 联系方式 zhengch99 com 招生 专业 名称 计算机科学 与 技术 主要 研究 方向 生物 信息学 智能 信息处理 模式识别 个人简历 安徽大学 计算机科学 与 技术 学院 教授 博士生 导师 安徽大学 科学技术 处 副处长 中国 生物 信息 学会 筹 生物医学 数据挖掘 与 计算 专业组 秘书长
+__label__publication 近年来 在 Neural Computation Bioinformatics Pattern Recognition IEEE ACM Transactions 系列 会刊 等 国内外 重要 学术刊物 与 国际 会议 上 发表 论文 余篇
+__label__publication 作为 项目 负责人 主持 完成 国家自然科学基金 项 中国 博士后 科学 基金项目 一等 资助 项 参与 课题 项
+__label__publication 目前 主持 国家自然科学基金 面上 项目 项
+__label__publication 研究成果 获 省部级 奖励 项
+__label__publication 应邀 担任 国际 学术会议 International Conference on Intelligent Computing ICIC07 ICIC08 ICIC10 ICIC12 ICIC2013 程序 委员会 委员 并 主持 分组 会议
+__label__edu Copyright 安徽大学 计算机科学 与 技术 学院 版权所有 All rights reserved
+__label__edu 联系地址 磬 苑 校区 合肥市 经开区 九龙 路 号 安徽大学 计算机科学 与 技术 学院 邮编
+__label__edu Search form
+__label__publication 学术 成果 Jin Xing Liu Dong Wang Ying Lian Gao Chun Hou Zheng Yong Xu Jiguo Yu Regularized Non negative Matrix Factorization for Identifying Differential Genes and Clustering Samples a Survey IEEE ACM Transactions on Computational Biology and Bioinformatics
+__label__publication Chao Yang Shu Guang Ge Chun Hou Zheng ndmaSNF Cancer subtype discovery based on integrative framework assisted by network diffusion model Oncotarget Shu Guang Ge Jun Feng Xia Wen Sha Chun Hou Zheng Cancer subtype discovery based on integrative model of multigenomic data IEEE ACM Transactions on Computational Biology and   Bioinformatics
+__label__publication Qing   Yan Yun   Ding Yi   Xia Yanwen   Chong   Chunhou   Zheng Class probability propagation of supervised information based on sparse subspace clustering for hyperspectral images Remote Sensing
+__label__publication Pi JingWei Di Zhang Hai Tao Li Junfeng Xia Chun Hou Zheng DriverFinder A gene length based network method to identify cancer driver genes Complexity
+__label__publication Ling Yun Dai Chun Mei Feng Jin Xing Liu   Chun Hou Zheng Jiguo Yu Mi Xiao Hou Robust Nonnegative Matrix Factorization via Joint Graph Laplacian and Discriminative Information for Identifying Differentially Expressed Genes Complexity vol
+__label__publication Jin Xing Liu Dong Qin Wang Chun Hou Zheng Ying Lian Gao Sha Sha Wu Jun Liang Shang Identifying drug pathway association pairs based on L2 integrative penalized matrix decomposition BMC Systems Biology
+__label__publication Pi Jing Wei Di Zhang Junfeng Xia Chun Hou Zheng LNDriver identifying driver genes byintegrating mutation and expression databased on gene gene interaction network BMC Bioinformatics DOI
+__label__publication s12859 y   Chun Hou Zheng Yi Fu Hou Jun Zhang Improved sparse representation with low rank representation for robust face recognition Neurocomputing  
+__label__edu Chun Hou Zheng WuYang Yan WenChong Jun FengXia   Identification ofmutateddriverpathwaysincancer using amulti objectiveoptimizationmodel   Computers inBiologyandMedicine
+__label__honor 获奖 情况   获 中国科学院 王宽诚 博士后 工作 奖 获 安徽省 科学技术 奖 自然科学 类 一等奖 获 教育部 自然科学 奖 一等奖 在 研 项目 国家自然科学基金 面上 项目
+__label__publication 基于 多组 学 数据 整合 的 癌症 驱动 突变 识别
+__label__edu 
+__label__edu Skip to main content
+__label__edu 首页     师资队伍     导师 介绍     博导 硕导
+__label__publication 发表 日期 供稿 管理员
+__label__edu 姓名 郑春厚 性别 男 出生年月 导师 类别 博导 硕导 技术职称 教授 联系方式 zhengch99 com 招生 专业 名称 计算机科学 与 技术 主要 研究 方向 生物 信息学 智能 信息处理 模式识别 个人简历 安徽大学 计算机科学 与 技术 学院 教授 博士生 导师 安徽大学 科学技术 处 副处长 中国 生物 信息 学会 筹 生物医学 数据挖掘 与 计算 专业组 秘书长
+__label__publication 近年来 在 Neural Computation Bioinformatics Pattern Recognition IEEE ACM Transactions 系列 会刊 等 国内外 重要 学术刊物 与 国际 会议 上 发表 论文 余篇
+__label__publication 作为 项目 负责人 主持 完成 国家自然科学基金 项 中国 博士后 科学 基金项目 一等 资助 项 参与 课题 项
+__label__publication 目前 主持 国家自然科学基金 面上 项目 项
+__label__publication 研究成果 获 省部级 奖励 项
+__label__publication 应邀 担任 国际 学术会议 International Conference on Intelligent Computing ICIC07 ICIC08 ICIC10 ICIC12 ICIC2013 程序 委员会 委员 并 主持 分组 会议
+__label__edu Copyright 安徽大学 计算机科学 与 技术 学院 版权所有 All rights reserved
+__label__edu 联系地址 磬 苑 校区 合肥市 经开区 九龙 路 号 安徽大学 计算机科学 与 技术 学院 邮编
+__label__edu Search form
+__label__publication 学术 成果 Jin Xing Liu Dong Wang Ying Lian Gao Chun Hou Zheng Yong Xu Jiguo Yu Regularized Non negative Matrix Factorization for Identifying Differential Genes and Clustering Samples a Survey IEEE ACM Transactions on Computational Biology and Bioinformatics
+__label__publication Chao Yang Shu Guang Ge Chun Hou Zheng ndmaSNF Cancer subtype discovery based on integrative framework assisted by network diffusion model Oncotarget Shu Guang Ge Jun Feng Xia Wen Sha Chun Hou Zheng Cancer subtype discovery based on integrative model of multigenomic data IEEE ACM Transactions on Computational Biology and   Bioinformatics
+__label__publication Qing   Yan Yun   Ding Yi   Xia Yanwen   Chong   Chunhou   Zheng Class probability propagation of supervised information based on sparse subspace clustering for hyperspectral images Remote Sensing
+__label__publication Pi JingWei Di Zhang Hai Tao Li Junfeng Xia Chun Hou Zheng DriverFinder A gene length based network method to identify cancer driver genes Complexity
+__label__publication Ling Yun Dai Chun Mei Feng Jin Xing Liu   Chun Hou Zheng Jiguo Yu Mi Xiao Hou Robust Nonnegative Matrix Factorization via Joint Graph Laplacian and Discriminative Information for Identifying Differentially Expressed Genes Complexity vol
+__label__publication Jin Xing Liu Dong Qin Wang Chun Hou Zheng Ying Lian Gao Sha Sha Wu Jun Liang Shang Identifying drug pathway association pairs based on L2 integrative penalized matrix decomposition BMC Systems Biology
+__label__publication Pi Jing Wei Di Zhang Junfeng Xia Chun Hou Zheng LNDriver identifying driver genes byintegrating mutation and expression databased on gene gene interaction network BMC Bioinformatics DOI
+__label__publication s12859 y   Chun Hou Zheng Yi Fu Hou Jun Zhang Improved sparse representation with low rank representation for robust face recognition Neurocomputing  
+__label__edu Chun Hou Zheng WuYang Yan WenChong Jun FengXia   Identification ofmutateddriverpathwaysincancer using amulti objectiveoptimizationmodel   Computers inBiologyandMedicine
+__label__honor 获奖 情况   获 中国科学院 王宽诚 博士后 工作 奖 获 安徽省 科学技术 奖 自然科学 类 一等奖 获 教育部 自然科学 奖 一等奖 在 研 项目 国家自然科学基金 面上 项目
+__label__publication 基于 多组 学 数据 整合 的 癌症 驱动 突变 识别
+__label__edu 
