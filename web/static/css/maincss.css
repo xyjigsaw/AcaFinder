@@ -206,7 +206,6 @@
   padding: 20px;
   border-radius: 10px;
   box-shadow: 0 0 5px rgba(41, 41, 41, 0.6);
-
 }
 
 .profile{
@@ -239,6 +238,7 @@
 }
 
 .post-slide{
+  font-family: sans-serif;
   margin: 10px;
   padding: 20px;
   border-radius: 5px;
@@ -309,6 +309,7 @@
 }
 
 .paper-abstract{
+  font-family: sans-serif;
   font-size: 14px;
 }
 

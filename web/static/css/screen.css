@@ -18,10 +18,6 @@
  * 		9.4. Components
  *
  * ------------------------------------------------------------------ */
-/* */
-/* */
-/* */
-/* */
 /* ----------------- 1. Reset ----------------- */
 html {
   font-family: sans-serif;
@@ -1968,12 +1964,11 @@ textarea:focus {
 
 /* -------- Parallax -------- */
 .parallax-box {
-  background-image: url(../images/rent-boat-background.jpg);
+  background-image: url(../images/hero-bg1.jpg);
   background-size: cover;
   background-position: center;
   background-attachment: fixed;
   padding: 160px 0;
-  margin-bottom: 100px;
 }
 .parallax-box h1,
 .parallax-box p {

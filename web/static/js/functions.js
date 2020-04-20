@@ -18,16 +18,6 @@
             }, 700);
          }
       }
-
-      // Load Boats
-      if (obj.hasClass('btn-load-destination')) {
-         if (!$('.load-destinations-box').hasClass('open')) {
-            $('.load-destinations-box').slideToggle(1000);
-            setTimeout (function () {
-               $('.load-destinations-box').addClass('open');
-            }, 700);
-         }
-      }
    });
 
    // Fade In Page
