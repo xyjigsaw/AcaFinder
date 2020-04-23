@@ -4,7 +4,7 @@ Academic Finder for Research
 The work is part of my Graduate Design.
 
 ## Framework
-![](https://github.com/xyjigsaw/AcaFinder/AcaFinder%20Architecture.png)
+![](https://github.com/xyjigsaw/AcaFinder/blob/master/AcaFinder%20Architecture.png)
 
 ## Preview
-![](https://github.com/xyjigsaw/AcaFinder/preview3.png)
+![](https://github.com/xyjigsaw/AcaFinder/blob/master/preview3.png)
