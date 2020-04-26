@@ -409,6 +409,7 @@
                 let papers_detail = ret['papers_detail'];
                 let year_paper = ret['year_paper'];
                 var paper_div_str = '';
+                var paper_cnt = 0;
                 for(let k in papers_detail){
                     paper_div_str += '<div class = "paper-item"><h2>' + papers_detail[k]['paperTitle'] +
                         '</h2><span class="paper-venue-year"><img src="../static/images/book.png" alt="Affiliation" width="14" height="15"/> ' +
@@ -425,6 +426,7 @@
 
                     paper_div_str += '<br><img src="../static/images/earth.png" alt="Affiliation" width="15" />  ' +
                         '<img src="../static/images/link.png" alt="Affiliation" width="15" /> ' + '</div>';
+                    paper_cnt += 1;
 
                 }
                 document.getElementById("paper-list").innerHTML = paper_div_str;
