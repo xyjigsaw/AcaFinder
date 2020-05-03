@@ -1,6 +1,6 @@
 # AcaFinder (学术访达)
 
-![](https://img.shields.io/badge/Status-Developing-brightgreen)
+![](https://img.shields.io/badge/Status-Developing-brightgreen.svg)
 
 AcaFinder: Academic Finder for Researchers
 
