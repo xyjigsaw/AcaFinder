@@ -4,7 +4,7 @@ Academic Finder for Research
 The work is part of my Graduate Design.
 
 ## Framework
-<img src="https://github.com/xyjigsaw/AcaFinder/blob/master/AcaFinder%20Architecture.png?" width = "400" height = "260" alt="architecture" 
+<img src="https://github.com/xyjigsaw/AcaFinder/blob/master/AcaFinder%20Architecture.png?" height = "260" alt="architecture" 
 align=center>
 
 
