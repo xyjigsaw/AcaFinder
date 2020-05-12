@@ -119,10 +119,10 @@ class EmbeddingModel:
             if key == ID:
                 continue
             if 10000 < len(candidate) < 20000:
-                if random.randint(1, 100) > 90:
+                if random.randint(1, 100) > 60:
                     continue
             elif 20000 < len(candidate):
-                if random.randint(1, 100) > 70:
+                if random.randint(1, 100) > 50:
                     continue
 
             sim = cos_sim(vec, value)
