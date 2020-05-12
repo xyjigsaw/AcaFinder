@@ -23,6 +23,10 @@ Open Neo4j and run AcaFinder Database
 ```bash
 python manage.py runserver
 ```
+or
+```bash
+python manage.py runserver 0.0.0.0:8000
+```
 
 
 ## Preview
