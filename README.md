@@ -10,7 +10,7 @@ The work is part of my Graduate Design.
 <img src="https://github.com/xyjigsaw/AcaFinder/blob/master/AcaFinder%20Architecture.png?" height = "300" alt="architecture" 
 align=center>
 
-Steps:
+Details:
 
 - Data [Aminer](https://www.aminer.cn/aminernetwork)
 - Profile Extraction and Data Cleaning
