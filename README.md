@@ -30,4 +30,5 @@ python manage.py runserver 0.0.0.0:8000
 
 
 ## Preview
+![](https://github.com/xyjigsaw/AcaFinder/blob/master/preview2.png)
 ![](https://github.com/xyjigsaw/AcaFinder/blob/master/preview3.png)
