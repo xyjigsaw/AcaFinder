@@ -12,7 +12,7 @@ align=center>
 
 Details:
 
-- Data [Aminer](https://www.aminer.cn/aminernetwork)
+- Data source: [Aminer](https://www.aminer.cn/aminernetwork)
 - Profile Extraction and Data Cleaning
 - Knowledge Graph Embedding and Fusion
 - Storage and Index
