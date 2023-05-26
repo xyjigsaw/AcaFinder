@@ -19,6 +19,15 @@ Details:
 - Visualization and Application (like recommendation system)
 
 # Install and Run
+unzip static assets
+```bash
+git clone https://github.com/xyjigsaw/AcaFinder
+cd AcaFinder
+cd web
+unzip static.zip
+cd ..
+```
+
 Open Neo4j and run AcaFinder Database
 ```bash
 python manage.py runserver
